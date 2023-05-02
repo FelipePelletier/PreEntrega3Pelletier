@@ -1,0 +1,36 @@
+.productos-title {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.card-title {
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.card-text {
+  text-align: center;
+}
+
+.card-select-container label {
+  font-size: 1.2rem;
+}
+
+#Talles {
+  width: 70%;
+  height: 25px;
+}
+
+.btn-secondary {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 200px;
+  height: 30px;
+  justify-content: center;
+}
+
+.card {
+  gap: 40px;
+}
