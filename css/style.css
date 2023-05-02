@@ -24,7 +24,9 @@ body {
 
 main {
   background-color: grey;
-  /* height: 90vh; */
+  display: flex;
+  flex-direction: column;
+  min-height: 90vh;
 }
 
 h1 {
@@ -36,7 +38,7 @@ h2 {
 }
 
 .footer {
-  bottom: 0;
+  margin-top: auto;
 }
 
 .redes {
