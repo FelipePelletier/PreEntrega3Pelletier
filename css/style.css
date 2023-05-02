@@ -26,6 +26,10 @@ main {
   background-color: grey;
 }
 
+h1 {
+  padding: 10px;
+}
+
 .footer {
   bottom: 0;
 }
@@ -97,10 +101,6 @@ main {
   width: 200px;
   height: 30px;
   justify-content: center;
-}
-
-.card {
-  gap: 40px;
 }
 
 .column-parrafos {
