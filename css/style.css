@@ -24,9 +24,14 @@ body {
 
 main {
   background-color: grey;
+  /* height: 90vh; */
 }
 
 h1 {
+  padding: 10px;
+}
+
+h2 {
   padding: 10px;
 }
 
@@ -101,6 +106,13 @@ h1 {
   width: 200px;
   height: 30px;
   justify-content: center;
+}
+
+.containerCards {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
 }
 
 .column-parrafos {
